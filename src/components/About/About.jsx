@@ -24,7 +24,7 @@ export const About = () => {
                 B.Tech in Computer Science Engineering with Specialization in
                 Gaming Technology.
               </p>
-              <p>CGPA : 8.76 / 10</p>
+              <p>CGPA : 8.87 / 10</p>
             </div>
           </li>
           <li className={styles.aboutItem}>

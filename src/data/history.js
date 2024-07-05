@@ -4,13 +4,13 @@ export const history = [
   {
     "role": "GeeksforGeeks",
     "startDate": "ashudev0987",
-    "experiences": ["Institute Rank: 111", "Total problem solved: 145+"],
+    "experiences": ["Total problem solved: 145+"],
     "imageSrc": gfg
   },
   {
     "role": "LeetCode",
     "startDate": "ashudev0987",
-    "experiences": ["Global rank: 288,956", "Total problem solved: 250+"],
+    "experiences": ["Global rank: 171,205", "Total problem solved: 350+"],
     "imageSrc": leetcode
   }
 ]
