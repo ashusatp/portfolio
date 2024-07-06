@@ -42,7 +42,7 @@ export const projects = [
     "description": "Code editor platform with real-time multi-user editing/viewing, room creation/joining via unique IDs",
     "skills": ["React", "ether.js" , "solidity", "Hardhat", "Alchemy", "Pinata"],
     "demo": "https://connect-pro-real-time-code-editor.vercel.app/",
-    "source": "https://github.com/ashusatp/connect-pro-real-time-code-editor-"
+    "source": "https://github.com/ashusatp/connect-real-time-code-editor"
   },
 
 ]
