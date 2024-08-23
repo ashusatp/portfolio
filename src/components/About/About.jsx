@@ -19,12 +19,12 @@ export const About = () => {
               width={60}
             />
             <div className={styles.aboutItemText}>
-              <h3>Vellore Institute Of Technology Bhopal (2021 - 2025)</h3>
+              <h3>Vellore Institute Of Technology</h3>
               <p>
                 B.Tech in Computer Science Engineering with Specialization in
                 Gaming Technology.
               </p>
-              <p>CGPA : 8.87 / 10</p>
+              <p>CGPA : 8.9 / 10</p>
             </div>
           </li>
           <li className={styles.aboutItem}>

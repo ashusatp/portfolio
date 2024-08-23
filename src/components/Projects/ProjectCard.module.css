@@ -8,22 +8,26 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  min-height: 400px;
 }
 
 .image {
   margin-bottom: 26px;
+  height: 150px;
 }
 
 .title {
   font-size: 25px;
   font-weight: 700;
+  color: red;
 }
 
 .description {
   margin-top: 6px;
   font-size: 25px;
-  min-height: 150px;
-  font-weight: 400;
+  /* min-height: 150px; */
+  font-size: 20px;
+  font-weight: 200;
 }
 
 .skills {

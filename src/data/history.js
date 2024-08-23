@@ -10,7 +10,7 @@ export const history = [
   {
     "role": "LeetCode",
     "startDate": "ashudev0987",
-    "experiences": ["Global rank: 171,205", "Total problem solved: 350+"],
+    "experiences": ["Global rank: 135,000", "Total problem solved: 450+"],
     "imageSrc": leetcode
   }
 ]
